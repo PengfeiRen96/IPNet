@@ -3,7 +3,7 @@
 This repository is an official implementation of the AAAI 2023 paper "Two Heads are Better than One: Image-Point Cloud Network for Depth-Based 3D Hand Pose Estimation".
 
 > ####  [Two Heads are Better than One: Image-Point Cloud Network for Depth-Based 3D Hand Pose Estimation](https://ojs.aaai.org/index.php/AAAI/article/view/25310)
-> ##### [Pengfei Ren](https://pengfeiren96.github.io/), [Chenyu Chen](https://scholar.google.com/citations?user=v8TFZI4AAAAJ),[Jiachang Hao](https://scholar.google.com/citations?user=XRR603kAAAAJ), [Haifeng Sun](https://scholar.google.com/citations?user=dwhbTsEAAAAJ), [Qi Qi](https://scholar.google.com/citations?user=2W2h0SwAAAAJ), [Jingyu Wang](https://jericwang.github.io/), [Jianxin Liao](https://www.researchgate.net/scientific-contributions/Jianxin-Liao-8024422)
+> ##### [Pengfei Ren](https://pengfeiren96.github.io/), [Chenyu Chen](https://scholar.google.com/citations?user=v8TFZI4AAAAJ), [Jiachang Hao](https://scholar.google.com/citations?user=XRR603kAAAAJ), [Haifeng Sun](https://scholar.google.com/citations?user=dwhbTsEAAAAJ), [Qi Qi](https://scholar.google.com/citations?user=2W2h0SwAAAAJ), [Jingyu Wang](https://jericwang.github.io/), [Jianxin Liao](https://www.researchgate.net/scientific-contributions/Jianxin-Liao-8024422)
 
 ##
 ## Installation
