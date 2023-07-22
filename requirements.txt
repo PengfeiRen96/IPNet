@@ -1,0 +1,12 @@
+opencv-python
+matplotlib
+scipy
+scikit-learn
+tensorflow-gpu==2.7.0
+tensorboardX
+protobuf==3.20.0
+chumpy
+tqdm
+pycocotools
+timm
+einops
